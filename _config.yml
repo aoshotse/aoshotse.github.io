@@ -18,30 +18,30 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Luis Armona
-title_html: Luis Armona
-email: larmona@stanford.edu
+title: Abraham Oshotse
+title_html: Abraham Oshotse
+email: aoshotse@stanford.edu
 #description: Luis Armona's personal website
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  luisarmona
-scholar: juU250QAAAAJ
-ssrnid: 2354829
+github_username:  aoshotse
+scholar: https://scholar.google.com/citations?user=uq01qwcAAAAJ&hl=en&oi=ao
+# ssrnid: 2354829
 # Build settings
 theme: minima
 #remote_theme: gaalcaras/academic
 description: |+
-        <b>Luis Armona</b><br>
-        Landau Economics Building<br>
-        579 Jane Stanford Way<br>
-        Stanford, CA 94305-6072
+        <b>Abraham Oshotse</b><br>
+        Stanford Graduate School of Business<br>
+        655 Knight Way<br>
+        Stanford, CA 94305
 
 plugins:
   - jekyll-seo-tag
-author: Luis Armona
-email: larmona@stanford.edu
+author: Abraham Oshotse
+email: aoshotse@stanford.edu
 curriculum:  
         url: cv_LA.pdf
         name: CV
