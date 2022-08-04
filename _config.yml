@@ -25,9 +25,9 @@ email: aoshotse@stanford.edu
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+twitter_username: abrahamoshotse
 github_username:  aoshotse
-scholar: https://scholar.google.com/citations?user=uq01qwcAAAAJ&hl=en&oi=ao
+scholar: uq01qwcAAAAJ
 # ssrnid: 2354829
 # Build settings
 theme: minima
