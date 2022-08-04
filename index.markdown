@@ -3,11 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: about
-#title: Luis Armona
+#title: Abraham Oshotse
 ---
 
-I am a 6th-Year PhD Student in the Economics Department at Stanford University. I have interned in the past at Chegg and Microsoft Research.  Before graduate school, I worked as an RA at the New York Federal Reserve. 
+I’m a 6th year PhD Student in Organizational Behavior at the Stanford Graduate School of Business. My research interests pertain to cultural phenomenon in social and market contexts, as well as career attainment within organizations. Methodologically, my work spans various techniques from computational linguistics, to experimental approaches, to traditional econometric methods.
 
-I will be a post-doctoral fellow at the NBER for the 2022-2023 school year, followed by an appointment to the Harvard Kennedy School as an Assistant Professor of Public Policy, starting in the 2023-2024 school year. 
-
-My research interests lie in industrial organization, postsecondary education and college behavior, the economics of information, and how machine learning methods can be used to enhance existing economic models.
+At the GSB I am a member of the Computational Culture Lab, which aims to pioneer novel ways to unearthing and systematically measuring culture and modeling its evolution. Prior to my time at Stanford, I received an M.S. in Quantitative Methods from the University of Pennsylvania’s Graduate School of Education and worked as a research analyst in the Capital Markets function at the Federal Reserve Bank of New York.
