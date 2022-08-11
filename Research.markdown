@@ -9,7 +9,7 @@ permalink: /research/
 
 - Strategic Differentiation in Cultural Markets: The Benefits of Conspicuous Category Spanning. _Under Review_, _Organizational Science_.
 
-- Cultural Tariffs: Appropriation and the Right to Cross Cultural Boundaries (with Amir Goldberg and Yael Berda). _Revise and Resubmit_, _American Sociological Review_.
+- Cultural Tariffs: Appropriation and the Right to Cross Cultural Boundaries (with Amir Goldberg and Yael Berda). _Reject and Resubmit_, _American Sociological Review_.
 
 
 ### Work in Progress
