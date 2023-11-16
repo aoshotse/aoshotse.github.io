@@ -7,13 +7,13 @@ permalink: /research/
 
 ### Working Papers 
 
-- [Strategic Differentiation in Cultural Markets: The Benefits of Conspicuous Category Spanning](https://osf.io/preprints/socarxiv/wdgqm). _(Being prepared for re-submission to Organization Science)_.
+- [Stylistic Differentiation in Cultural Markets: The Benefits of Conspicuous Category Spanning](https://osf.io/preprints/socarxiv/wdgqm). _(Under review at Organization Science)_.
 
-- [Cultural Tariffs: Appropriation and the Right to Cross Cultural Boundaries](https://osf.io/preprints/socarxiv/mjdpe) (with Amir Goldberg and Yael Berda). _(Revise and Re-submit at American Sociological Review)_.
+- [Cultural Tariffing: Appropriation and the Right to Cross Cultural Boundaries](https://osf.io/preprints/socarxiv/mjdpe) (with Amir Goldberg and Yael Berda). _(Forthcoming at American Sociological Review)_.
 
 
 ### Work in Progress
 
-- Language Codes and Career Attainment in Firms 
+- Uncovering Gender-Based Workplace Outcomes from Email Communication via SEMEL 
 
-- An Ensemble Approach to Distinguishing Elaborated and Compact Language Codes within Natural Language Text
+- SEMEL: An Ensemble Approach to Quantifying Linguistic Elaboration in Natural Language Text
