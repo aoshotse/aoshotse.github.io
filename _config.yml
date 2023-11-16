@@ -20,7 +20,7 @@
 
 title: Abraham Oshotse
 title_html: Abraham Oshotse
-email: aoshotse@stanford.edu
+email: abraham.oshotse@emory.edu
 #description: Abraham Oshotse's personal website
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -34,16 +34,16 @@ theme: minima
 #remote_theme: gaalcaras/academic
 description: |+
         <b>Abraham Oshotse</b><br>
-        Stanford Graduate School of Business<br>
-        655 Knight Way<br>
-        Stanford, CA 94305
+        Goizueta Business School<br>
+        1300 Clifton Rd<br>
+        Atlanta, GA 30322
 
 plugins:
   - jekyll-seo-tag
 author: Abraham Oshotse
 email: aoshotse@stanford.edu
 curriculum:  
-        url: Abraham_Oshotse_CV_2022.pdf
+        url: Abraham_Oshotse_CV_2023.pdf
         name: CV
 # Exclude from processing.
 # The following items will not be processed, by default.
