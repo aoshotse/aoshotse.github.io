@@ -9,7 +9,9 @@ permalink: /research/
 
 [Stylistic Differentiation in Cultural Markets: The Benefits of Conspicuous Category Spanning](https://doi.org/10.1287/orsc.2023.18354). _Organization Science_, 2026.
 
-<img src="/images/conspic_diff.png" alt="" width="240" style="float:right; margin:0 0 0.5rem 1rem;">
+<img src="/images/conspic_diff.png" alt="" width="600" style="display:block; margin:1rem auto;">
+
+<br>
 
 Creative industries run on recombination. Films, songs, and shows routinely borrow from genres other than their own, and the standard advice is to be novel but not too novel. That advice is hard to act on, because the same body of work warns that crossing categories carries a penalty. So when does borrowing across genres help, and when does it backfire?
 
