@@ -16,7 +16,6 @@ Drawing on the narrative features of nearly 6,000 films, the paper finds that bo
 What decides a film's fate here is a measurable property of the film itself: how recognizable its borrowed elements are within their category and across the field, not its overall quality and not the bare fact that it spans genres. Because the films are broken into their constituent features before any outcome is examined, that property can be separated from the impression of a film being simply good and shown to carry the effect on its own. The feature that matters is built into the object rather than projected onto it, which is why an account that treats the film as a whole tends to miss it.
 
 <br>
-<br>
 
 
 [Cultural Tariffing: Appropriation and the Right to Cross Cultural Boundaries](https://osf.io/preprints/socarxiv/mjdpe) (with Amir Goldberg and Yael Berda). _American Sociological Review_, 2024.
@@ -27,7 +26,6 @@ Some acts of cultural borrowing pass without comment while others are condemned 
 
 Read this way, appropriation is not a reflex but a structured judgment. What moves the verdict is a single separable feature of the situation, the value an observer reads as changing hands given the standing of the parties, rather than the borrowing itself. Because the study varies those features independently, it can isolate the one that decides the reaction and show the same act drawing approval or condemnation as that feature changes.
 
-<br>
 <br>
 
 
@@ -43,7 +41,6 @@ The study looks at a detailed, explanatory way of speaking that is generally cod
 The behavior being judged is held constant. What changes its value is the standing of the person using it and whether that person is perceived as reaching above their station, not the style itself, which is why the same feature is rewarded for some speakers and punished for others. Measuring the style independently of the reactions it draws is what exposes the real mechanism, since the surface verdict, that the woman was being too aggressive or unfeminine, misattributes cause. The driver is a structured reading of status entitlement that no judgment of the style on its own would reveal.
 
 <br>
-<br>
 
 
 
@@ -57,7 +54,6 @@ The paper argues that what matters is the legibility of a success, meaning wheth
 
 The lever here is not the size of a success, nor the strength of its connection to profitability, but whether it comes with a usable account of its own causes, a feature that lives in the discourse around the show rather than in the show. Holding the success apart from the talk that surrounds it, and measuring each on its own, makes visible that what gets copied is an explanation, not an achievement. The constituent that drives imitation is again not the one a tally of viewers or awards would point to.
 
-<br>
 <br>
 
 
