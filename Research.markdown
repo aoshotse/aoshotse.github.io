@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-### Decomposing Judgment in Cultural Evaluation
+## Overview: Decomposing Judgment in Cultural Evaluation
 When actors evaluate cultural artifacts and practices, the judgment presents itself as a single overall impression, arrived at or not. My work shows that these judgments do not in fact respond to acts and objects as wholes. They respond to particular constituents of those acts and objects, read in cultural context, and the constituent that drives the outcome is rarely the one the overall impression would credit. What makes this analytically tractable is that I measure the object and the judgment separately. I collect the judgments at scale, usually from large bodies of text and other digital trace data, and I operationalize the object being judged in enough granular detail to identify its composition independently of how it is typically conceived. With the two side by side, I can determine which constituents drive the judgment, and measure how far the judgment departs from the object as measured by its composition. Interpretive work reads object and reception together and at small scale, so it can neither separate them nor measure the distance between them.
 
 Substantively, my work concentrates on culture and the creative industries, where holistic judgment has long been the primary evaluative frame and where the return to decomposing it is greatest. My findings have implications for organizations and markets, especially cultural product markets. Methodologically, I combine computational analysis of digital trace data with field and archival data, and the application of machine learning and AI for measurement and analysis at scale.
