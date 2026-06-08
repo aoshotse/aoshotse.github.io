@@ -9,6 +9,8 @@ permalink: /research/
 
 [Stylistic Differentiation in Cultural Markets: The Benefits of Conspicuous Category Spanning](https://doi.org/10.1287/orsc.2023.18354). _Organization Science_, 2026.
 
+<img src="/images/conspic_diff.png" alt="" width="240" style="float:right; margin:0 0 0.5rem 1rem;">
+
 Creative industries run on recombination. Films, songs, and shows routinely borrow from genres other than their own, and the standard advice is to be novel but not too novel. That advice is hard to act on, because the same body of work warns that crossing categories carries a penalty. So when does borrowing across genres help, and when does it backfire?
 
 Drawing on the narrative features of nearly 6,000 films, the paper finds that borrowing works when it is conspicuous, meaning the borrowed elements are familiar and easy for audiences to recognize. It also finds that borrowing from thinly populated genres pays off more than borrowing from crowded ones, because audiences grow tired of elements tied to oversaturated genres. These results bring together two lines of theory that had developed separately, one on effective differentiation and one on the penalties to category spanning.
