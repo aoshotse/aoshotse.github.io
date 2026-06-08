@@ -30,6 +30,10 @@ What decides a film's fate here is a measurable property of the film itself: how
 
 [Cultural Tariffing: Appropriation and the Right to Cross Cultural Boundaries](https://osf.io/preprints/socarxiv/mjdpe) (with Amir Goldberg and Yael Berda). _American Sociological Review_, 2024.
 
+<img src="/images/cultural_tariffing.png" alt="" width="600" style="display:block; margin:1rem auto;">
+
+<br>
+
 In the late 2010s and early 2020s, cultural appropriation moved to the center of public debate and institutional decision-making. Why did it surface so suddenly, and why did it carry such force? Most attempts to explain it have been interpretive or narrow in scope. This paper sets out to explain it empirically, drawing on a large and representative sample.
 
 Some acts of cultural borrowing pass without comment while others are condemned as appropriation. The paper argues that the difference reflects a shift in how members of high-status groups now consume culture. As drawing on many cultures became a marker of status in itself, crossing cultural boundaries turned into a way of accruing value, and observers came to judge each crossing by who stands to gain from it. People object when they see a borrower extracting value at the expense of the culture being borrowed from, according to aspects of the actor's identity that they believe already convey social value. The paper calls this cultural tariffing, a social cost levied on boundary-crossing, and finds that observers' reactions turn on their beliefs about inequality.
@@ -44,6 +48,10 @@ Read this way, appropriation is not a reflex but a structured judgment. What mov
 
 Working paper, under review. [Draft](https://aoshotse.github.io/assets/manuscript_06_08_2026_blinded.pdf).
 
+<img src="/images/wp_plot.png" alt="" width="600" style="display:block; margin:1rem auto;">
+
+<br>
+
 It is well known that women are penalized for workplace communication that sounds authoritative, and the usual explanation is that they are being sanctioned for acting against type, for being insufficiently feminine. This paper finds a different mechanism underneath, and it points the other way. What if the penalty has nothing to do with policing femininity at all?
 
 The study looks at a detailed, explanatory way of speaking that is generally coded as feminine but that, inside organizations built on specialized expertise, becomes a marker of authority through its role in helping others across the ranks solve problems. Analyzing workplace text with natural language processing, the paper finds that women, especially those not in management, are penalized for using this style, while men are not. Because the style is coded feminine, the standard account cannot hold. Women are punished here for communicating in a gender-typical way, and the men for whom the same style is gender-atypical pay no penalty at all. The penalty is not about gender nonconformity. It is about who is permitted to claim standing their position has not granted them, and gender decides who is held to that line and who is exempt. Supporting this, the penalty concentrates in speaking upward to managers, it tracks a person's standing rather than fixed traits, and it disappears for women once they are promoted into management.
@@ -57,6 +65,10 @@ The behavior being judged is held constant. What changes its value is the standi
 ### Work in Progress
 
 Profit or Prestige? Selective Conformity under Multi-Audience Evaluation (with Lingyun Zhang and Anthony Palomba).
+
+<img src="/images/table3_award_minus_view_split_sample_collapsed.png" alt="" width="600" style="display:block; margin:1rem auto;">
+
+<br>
 
 Organizations learn by copying what works, a premise at the center of how we explain the spread of practices. But imitators can all see the same hits, and they copy some while ignoring others of comparable size. What determines which successes get imitated?
 
