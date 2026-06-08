@@ -17,7 +17,7 @@ What decides a film's fate here is a measurable property of the film itself: how
 
 <br>
 <br>
-<br>
+
 
 [Cultural Tariffing: Appropriation and the Right to Cross Cultural Boundaries](https://osf.io/preprints/socarxiv/mjdpe) (with Amir Goldberg and Yael Berda). _American Sociological Review_, 2024.
 
@@ -29,7 +29,7 @@ Read this way, appropriation is not a reflex but a structured judgment. What mov
 
 <br>
 <br>
-<br>
+
 
 
 ### Working Papers
@@ -44,7 +44,7 @@ The behavior being judged is held constant. What changes its value is the standi
 
 <br>
 <br>
-<br>
+
 
 
 ### Work in Progress
@@ -59,5 +59,5 @@ The lever here is not the size of a success, nor the strength of its connection 
 
 <br>
 <br>
-<br>
+
 
