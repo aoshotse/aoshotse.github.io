@@ -83,3 +83,19 @@ The lever here is not the size of a success, nor the strength of its connection 
 <br>
 
 
+Identity-Signal Misalignment, Expectation, and Creative Valuation (with Tosen Nwadei).
+
+<img src="/images/identity_misalignment_creativity.png" alt="" width="600" style="display:block; margin:1rem auto;">
+
+<br>
+
+Creativity is usually evaluated as if it inheres in the work: the song, the design, the show, the portfolio, the idea. Research has examined the conditions that make creative work possible and the features that make creative products successful, but it often leaves the act of evaluation itself intact. Once the work is in front of an audience, the judgment is assumed to track the work. What if evaluations of creative capacity are shaped not only by what the creator made, but by whether the work seems expected from someone like them?
+
+The paper argues that racial identity functions as a signal of what a creator is likely to produce. When the cultural coding of a creator’s work fits that expectation, the pairing reads as ordinary. When it violates the expectation, evaluators infer broader interests, wider experience, or a more expansive imagination. Because breadth is a central cue for creativity, the same work can become stronger evidence of creative capacity for one creator than for another.
+
+Across four preregistered experiments in television writing, graphic design, and live music, participants evaluate fictional emerging creators whose race and prior work are varied independently, while credentials and quality cues are held constant. They choose which creator is most likely to win an award for bold, outside-the-box work and which creator they would hire or work with. White creators receive disproportionate gains when they produce minority-coded work, on both recognition and selection outcomes, while Black and Asian creators receive no comparable benefit for producing the same kind of work.
+
+Read this way, creative valuation is not simply a judgment of the work or of the creator. It is a judgment of the relation between the two. What appears to reward imagination is also rewarding how surprising the work seems given the creator’s social identity. The constituent that drives the judgment is not the quality, originality, or content of the work alone, but the structured expectation against which the work is read. In creative labor markets, that misdescription matters because judgments of creative capacity become allocations of recognition, hiring, and opportunity.
+
+<br>
+
